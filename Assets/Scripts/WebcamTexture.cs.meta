@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 00ff10ad0bb9565419bb82f0fe2f626e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transducerPrefab: {fileID: 4972966655891744634, guid: c279800e78663bc468df59b1e4f633a5, type: 3}
+  - armPrefab: {fileID: 9049672608073654806, guid: 865b8d88688e77345bf49a84f7921161, type: 3}
+  - imagea: {instanceID: 0}
+  - imageb: {instanceID: 0}
+  - rawimagea01: {instanceID: 0}
+  - rawimagea02: {instanceID: 0}
+  - rawimagea03: {instanceID: 0}
+  - rawimagea04: {instanceID: 0}
+  - rawimagea05: {instanceID: 0}
+  - rawimagea06: {instanceID: 0}
+  - rawimagea07: {instanceID: 0}
+  - rawimagea08: {instanceID: 0}
+  - rawimagea09: {instanceID: 0}
+  - rawimagea10: {instanceID: 0}
+  - rawimagea11: {instanceID: 0}
+  - rawimagea12: {instanceID: 0}
+  - rawimagea13: {instanceID: 0}
+  - rawimagea14: {instanceID: 0}
+  - rawimagea15: {instanceID: 0}
+  - rawimagea16: {instanceID: 0}
+  - rawimagea17: {instanceID: 0}
+  - rawimagea18: {instanceID: 0}
+  - rawimagea19: {instanceID: 0}
+  - rawimagea20: {instanceID: 0}
+  - rawimagea21: {instanceID: 0}
+  - rawimagea22: {instanceID: 0}
+  - rawimagea23: {instanceID: 0}
+  - rawimagea24: {instanceID: 0}
+  - rawimagea25: {instanceID: 0}
+  - rawimagea26: {instanceID: 0}
+  - rawimagea27: {instanceID: 0}
+  - rawimagea28: {instanceID: 0}
+  - rawimagea29: {instanceID: 0}
+  - rawimagea30: {instanceID: 0}
+  - rawimagea31: {instanceID: 0}
+  - rawimagea32: {instanceID: 0}
+  - rawimagea33: {instanceID: 0}
+  - rawimagea34: {instanceID: 0}
+  - rawimagea35: {instanceID: 0}
+  - rawimagea36: {instanceID: 0}
+  - rawimagea37: {instanceID: 0}
+  - rawimagea38: {instanceID: 0}
+  - rawimagea39: {instanceID: 0}
+  - rawimagea40: {instanceID: 0}
+  - rawimagea41: {instanceID: 0}
+  - rawimagea42: {instanceID: 0}
+  - rawimagea43: {instanceID: 0}
+  - rawimagea44: {instanceID: 0}
+  - rawimagea45: {instanceID: 0}
+  - rawimagea46: {instanceID: 0}
+  - rawimagea47: {instanceID: 0}
+  - rawimagea48: {instanceID: 0}
+  - rawimagea49: {instanceID: 0}
+  - rawimagea50: {instanceID: 0}
+  - rawimagea51: {instanceID: 0}
+  - rawimagea52: {instanceID: 0}
+  - rawimagea53: {instanceID: 0}
+  - rawimagea54: {instanceID: 0}
+  - rawimagea55: {instanceID: 0}
+  - rawimagea56: {instanceID: 0}
+  - rawimagea57: {instanceID: 0}
+  - rawimageb01: {instanceID: 0}
+  - rawimageb02: {instanceID: 0}
+  - rawimageb03: {instanceID: 0}
+  - rawimageb04: {instanceID: 0}
+  - rawimageb05: {instanceID: 0}
+  - rawimageb06: {instanceID: 0}
+  - rawimageb07: {instanceID: 0}
+  - rawimageb08: {instanceID: 0}
+  - rawimageb09: {instanceID: 0}
+  - rawimageb10: {instanceID: 0}
+  - rawimageb11: {instanceID: 0}
+  - rawimageb12: {instanceID: 0}
+  - rawimageb13: {instanceID: 0}
+  - rawimageb14: {instanceID: 0}
+  - rawimageb15: {instanceID: 0}
+  - rawimageb16: {instanceID: 0}
+  - rawimageb17: {instanceID: 0}
+  - rawimageb18: {instanceID: 0}
+  - rawimageb19: {instanceID: 0}
+  - rawimageb20: {instanceID: 0}
+  - rawimageb21: {instanceID: 0}
+  - rawimageb22: {instanceID: 0}
+  - rawimageb23: {instanceID: 0}
+  - rawimageb24: {instanceID: 0}
+  - rawimageb25: {instanceID: 0}
+  - rawimageb26: {instanceID: 0}
+  - rawimageb27: {instanceID: 0}
+  - rawimageb28: {instanceID: 0}
+  - rawimageb29: {instanceID: 0}
+  - rawimageb30: {instanceID: 0}
+  - rawimageb31: {instanceID: 0}
+  - rawimageb32: {instanceID: 0}
+  - rawimageb33: {instanceID: 0}
+  - rawimageb34: {instanceID: 0}
+  - rawimageb35: {instanceID: 0}
+  - rawimageb36: {instanceID: 0}
+  - rawimageb37: {instanceID: 0}
+  - rawimageb38: {instanceID: 0}
+  - rawimageb39: {instanceID: 0}
+  - rawimageb40: {instanceID: 0}
+  - rawimageb41: {instanceID: 0}
+  - rawimageb42: {instanceID: 0}
+  - rawimageb43: {instanceID: 0}
+  - rawimageb44: {instanceID: 0}
+  - rawimageb45: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
