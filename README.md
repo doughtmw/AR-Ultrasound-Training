@@ -1,6 +1,8 @@
 # Augmented Reality Ultrasound Training
 Project for the [2021 Medical Augmented Reality Summer School](https://medicalaugmentedreality.org/). We present a low-cost monitor-based augmented reality training platform for at-home ultrasound skill development.
 
+- [Towards a Low-Cost Monitor-Based Augmented Reality Training Platform for At-Home Ultrasound Skill Development](https://www.mdpi.com/2313-433X/8/11/305)
+
 ## Authors
 - Marine Ying Shao, Tamara Vagg, Matthias Seibold, and Mitchell Doughty
 
@@ -10,6 +12,7 @@ Project for the [2021 Medical Augmented Reality Summer School](https://medicalau
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Steps to run](#steps-to-run)
+- [Citation](#citation)
 
 ## Overview
 - This project is incorporates elements from the [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) repository for reading a VRect onnx model with Barracuda and regressing a single 3D human pose within Unity 
@@ -79,3 +82,17 @@ python calibrate.py --square_size 0.03 --pattern_width 7 --pattern_height 5 --de
 - Place the printed ArUco marker in view of the camera, the virtual ultrasound probe should track the pose (position and rotation) of this marker relative to your arm
 
 ![](figures/tracking-3.PNG)
+
+## Citation
+If you found this code repo useful, please consider citing the associated publication:
+
+@article{shao2022towards,
+  title={Towards a Low-Cost Monitor-Based Augmented Reality Training Platform for At-Home Ultrasound Skill Development},
+  author={Shao, Marine Y and Vagg, Tamara and Seibold, Matthias and Doughty, Mitchell},
+  journal={Journal of Imaging},
+  volume={8},
+  number={11},
+  pages={305},
+  year={2022},
+  publisher={MDPI}
+}
