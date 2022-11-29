@@ -86,6 +86,7 @@ python calibrate.py --square_size 0.03 --pattern_width 7 --pattern_height 5 --de
 ## Citation
 If you found this code repo useful, please consider citing the associated publication:
 
+```
 @article{shao2022towards,
   title={Towards a Low-Cost Monitor-Based Augmented Reality Training Platform for At-Home Ultrasound Skill Development},
   author={Shao, Marine Y and Vagg, Tamara and Seibold, Matthias and Doughty, Mitchell},
@@ -96,3 +97,4 @@ If you found this code repo useful, please consider citing the associated public
   year={2022},
   publisher={MDPI}
 }
+```
